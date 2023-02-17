@@ -1,2 +1,1 @@
-# Atividade-Git
-Essa é um exercício git e Github
+Estou conseguindo entender esse assunto
